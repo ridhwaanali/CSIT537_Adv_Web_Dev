@@ -1,0 +1,11 @@
+C:\Users\raoff\Desktop\mod7.2\mod7.2\bin\Debug\mod7.2.exe.config
+C:\Users\raoff\Desktop\mod7.2\mod7.2\bin\Debug\mod7.2.exe
+C:\Users\raoff\Desktop\mod7.2\mod7.2\bin\Debug\mod7.2.pdb
+C:\Users\raoff\Desktop\mod7.2\mod7.2\obj\Debug\mod7.2.csproj.AssemblyReference.cache
+C:\Users\raoff\Desktop\mod7.2\mod7.2\obj\Debug\mod7.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\raoff\Desktop\mod7.2\mod7.2\obj\Debug\mod7._2.ConversionCalculator.resources
+C:\Users\raoff\Desktop\mod7.2\mod7.2\obj\Debug\mod7._2.Properties.Resources.resources
+C:\Users\raoff\Desktop\mod7.2\mod7.2\obj\Debug\mod7.2.csproj.GenerateResource.cache
+C:\Users\raoff\Desktop\mod7.2\mod7.2\obj\Debug\mod7.2.csproj.CoreCompileInputs.cache
+C:\Users\raoff\Desktop\mod7.2\mod7.2\obj\Debug\mod7.2.exe
+C:\Users\raoff\Desktop\mod7.2\mod7.2\obj\Debug\mod7.2.pdb

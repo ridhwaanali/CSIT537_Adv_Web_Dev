@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <title>Mod 8.1</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="width:50%; align-content:center" >
+            <table style="width:100%">
+                <tr style="vertical-align:bottom">
+                    <td>
+                        <asp:Label ID="lblCelsius" runat="server" Text="Celsius"></asp:Label>
+                        <br />
+                        <asp:TextBox ID="txtCelsius" runat="server" Width="200px"></asp:TextBox>
+                    </td>
+                    <td>
+                        <asp:Button ID="btnCToF" runat="server" Text="Convert degree C to degree F" OnClick="btnCToF_Click" />
+                    </td>
+                    <td>
+                        <asp:Label ID="lblFahrenheit" runat="server" Text="Fahrenheit"></asp:Label>
+                        <br />
+                        <asp:TextBox ID="txtFahrenheit" runat="server" Width="200px"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr style="vertical-align:bottom">
+                    <td colspan="3"></td>
+                </tr>
+                <tr style="vertical-align:bottom">
+                    <td>
+                        <asp:Label ID="lblFahrenheit2" runat="server" Text="Fahrenheit"></asp:Label>
+                        <br />
+                        <asp:TextBox ID="txtFahrenheit2" runat="server" Width="200px"></asp:TextBox>
+                    </td>
+                    <td>
+                        <asp:Button ID="btnFToC" runat="server" Text="Convert degree F to degree C" OnClick="btnFToC_Click" />
+                    </td>
+                    <td>
+                        <asp:Label ID="lblCelsius2" runat="server" Text="Celsius"></asp:Label>
+                        <br />
+                        <asp:TextBox ID="txtCelsius2" runat="server" Width="200px"></asp:TextBox>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>
